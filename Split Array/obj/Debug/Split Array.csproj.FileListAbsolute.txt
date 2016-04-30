@@ -1,0 +1,6 @@
+c:\users\jon\documents\visual studio 2015\Projects\Split Array\Split Array\bin\Debug\Split Array.exe.config
+c:\users\jon\documents\visual studio 2015\Projects\Split Array\Split Array\bin\Debug\Split Array.exe
+c:\users\jon\documents\visual studio 2015\Projects\Split Array\Split Array\bin\Debug\Split Array.pdb
+c:\users\jon\documents\visual studio 2015\Projects\Split Array\Split Array\obj\Debug\Split Array.exe
+c:\users\jon\documents\visual studio 2015\Projects\Split Array\Split Array\obj\Debug\Split Array.pdb
+c:\users\jon\documents\visual studio 2015\Projects\Split Array\Split Array\obj\Debug\Split Array.csprojResolveAssemblyReference.cache
